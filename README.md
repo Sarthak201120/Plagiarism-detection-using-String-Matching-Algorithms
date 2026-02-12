@@ -126,9 +126,3 @@ open index.html in browser or use live-server
 For any queries or contributions, reach out to:
 
 📩 sarthakrawat.nr72@gmail.com
-
-📩 sarthakrawat.230112045@gehu.ac.in
-
-📩 amankumar.230112444@gehu.ac.in
-
-📩 anshikasingh.230122594@gehu.ac.in
