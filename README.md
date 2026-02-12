@@ -7,9 +7,10 @@ A powerful and user-friendly plagiarism detection system that utilizes classical
 This project aims to develop a robust plagiarism detection tool that performs fast and accurate text similarity comparisons using algorithms like Rabin-Karp, Knuth-Morris-Pratt (KMP), Longest Common Subsequence (LCS), and Jaccard Similarity. It includes a responsive web interface for real-time document comparison and interactive result visualization.
 
 👥 Team Information
-Aditya Negi – Backend Developer, Frontend Designer
 
 Sarthak Rawat – Algorithm Implementation, Analysis
+
+Aditya Negi – Backend Developer, Frontend Designer
 
 Aman Singh – Machine Learning Integration
 
@@ -124,7 +125,7 @@ open index.html in browser or use live-server
 📧 Contact
 For any queries or contributions, reach out to:
 
-📩 aditya.230114984@gehu.ac.in
+📩 sarthakrawat.nr72@gmail.com
 
 📩 sarthakrawat.230112045@gehu.ac.in
 
